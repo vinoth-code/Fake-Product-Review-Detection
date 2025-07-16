@@ -70,9 +70,9 @@ fake-review-detector/
 2. Install dependencies  
 ```bash
 pip install -r requirements.txt
-
-
-
+-----
+3. RUN prepare_app.py
+4)run app.py
 
 streamlit run app.py
 
